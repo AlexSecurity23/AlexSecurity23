@@ -5,10 +5,13 @@ Cybersecurity Analyst | Security+ | SIEM | EDR | Threat Detection | GRC
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Active Directory Home Lab](https://github.com/
 
-<h2> 📄 Resume
-[<img align="left" alt="Alexander Gardner | Resume" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/adobeacrobatreader.svg" />](https://github.com/AlexSecurity23/AlexSecurity23/raw/main/ALEXANDER%20OLDEN.docx)
-<h2> 🏆 [Certifications]
-https://github.com/AlexSecurity23/AlexSecurity23/raw/main/CompTIA%20Security%2B%20ce%20certificate%20(1).pdf
+## 📄 Resume & Certifications
+
+📄 [Download My Resume](https://github.com/AlexSecurity23/AlexSecurity23/raw/main/ALEXANDER%20OLDEN.docx)  
+
+## 🏆 Certifications
+
+[Security+ Certified](https://github.com/AlexSecurity23/AlexSecurity23/raw/main/CompTIA%20Security%2B%20ce%20certificate%20(1).pdf)
 <h2> 🤳 Connect with me:</h2>
 <img align="left" alt="Alexander Gardner | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />(https://www.linkedin.com/in/alexander-olden-gardner)
 <img align="left" alt="Alexander Gardner | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />(mail to:alexgrdnr70@gmail.com)
