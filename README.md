@@ -1,7 +1,28 @@
-## Hi there 👋
+<h1>Hi, I'm Alexander Olden-Gardner
+Cybersecurity Analyst | Security+ | SIEM | EDR | Threat Detection | GRC 
+<h2>👨‍💻 Cyber Security Projects:</h2>
+
+- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+  - [Active Directory Home Lab](https://github.com/
+
+<h2> Certifications and Resume 
+
+<h2> 🤳 Connect with me:</h2>
+<img align="left" alt="Alexander Gardner | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />(https://www.linkedin.com/in/alexander-olden-gardner)
+<img align="left" alt="Alexander Gardner | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />(mail to:alexgrdnr70@gmail.com)
+
+<br/><br/>
+
+💼 Cybersecurity Analyst
+🔐 Security+ Certified
+📊 SIEM | EDR | Threat Detection
+
+
+[youtube]: https://www.youtube.com/
+[linkedin]: https://www.linkedin.com/in/alexander-olden-gardner
 
 <!--
-**AlexSecurity23/AlexSecurity23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
