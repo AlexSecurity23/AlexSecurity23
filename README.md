@@ -4,7 +4,7 @@ Cybersecurity Analyst | Security+ | SIEM | EDR | Threat Detection | GRC
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Active Directory Home Lab](https://github.com/
-  - https://github.com/AlexSecurity23/Soc-Splunk-Ticket
+  - (Soc Brute Force Log Investigation) https://github.com/AlexSecurity23/Soc-Splunk-Ticket
 
 ## 📄 Resume & Certifications
 
