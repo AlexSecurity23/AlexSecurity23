@@ -4,6 +4,7 @@ Cybersecurity Analyst | Security+ | SIEM | EDR | Threat Detection | GRC
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Active Directory Home Lab](https://github.com/
+  - README.md
 
 ## 📄 Resume & Certifications
 
