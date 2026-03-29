@@ -5,7 +5,8 @@ Cybersecurity Analyst | Security+ | SIEM | EDR | Threat Detection | GRC
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Active Directory Home Lab](https://github.com/
   - (Soc Brute Force Log Investigation) https://github.com/AlexSecurity23/Soc-Splunk-Ticket
-  - (Soc SQL Lab Investigstion) https://github.com/AlexSecurity23/Soc-Splunk--SQL-Investigation 
+  - (Soc SQL Lab Investigstion) https://github.com/AlexSecurity23/Soc-Splunk--SQL-Investigation
+  - (Soc Nessus Scan Activity Investigation) https://github.com/AlexSecurity23/Nessus-Scan-Activity-Soc-Lab/tree/main 
 ## 📄 Resume & Certifications
 
 📄 [Download My Resume](https://github.com/AlexSecurity23/AlexSecurity23/raw/main/ALEXANDER%20OLDEN.docx)  
